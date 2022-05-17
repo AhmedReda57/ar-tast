@@ -2,7 +2,9 @@
 {
     --maincolor:#e65f78 ;
 }
-
+.ar{
+    color: blue;
+}
 .home
 {
     background-image:url("exam/1.jpg");
